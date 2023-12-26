@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+// (N)Z字形变换
 public class six {
     public static String convert(String s, int numRows) {
         if(numRows == 1)
